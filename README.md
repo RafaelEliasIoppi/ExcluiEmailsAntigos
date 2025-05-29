@@ -1,8 +1,7 @@
 # 🚀Instruções 🚀
 
 📌 Você deve criar dois arquivos:
-email.properties
-email1.properties
+**email.properties** e **email1.properties**
 
 📂 Salve os arquivos neste local:
 
@@ -12,9 +11,9 @@ C:\projeto\arquivos\email1.properties
 
 # 🛠 Configuração do arquivo properties
 
-mail.username=SEU_EMAIL_AQUI
+mail.username=**SEU_EMAIL_AQUI**
 
-mail.password=SUA_SENHA_AQUI   ⚠️ **Atenção:** Não é a senha tradicional usada para acessar o seu e-mail. Siga as informações abaixo.
+mail.password=**SUA_SENHA_AQUI**   ⚠️ **Atenção:** Não é a senha tradicional usada para acessar o seu e-mail. Siga as informações abaixo. ⚠️
 
 mail.store.protocol=imaps
 
