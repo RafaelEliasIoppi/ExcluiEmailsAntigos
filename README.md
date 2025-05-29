@@ -51,5 +51,4 @@ sua Conta do Google tem Proteção Avançada.
 Dica: normalmente, é necessário digitar a senha de app uma vez por app ou dispositivo.
 
 
-https://myaccount.google.com/apppasswords?continue=https://myaccount.google.com/security?gar%3DWzI0Nl0%26hl%3Dpt_BR%26utm_source%3DOGB%26utm_medium%3Dact%26rapt%3DAEjHL4MidUToJReD6h1SHdLlx1-dLGNeHQA76JSdHpSlwcWX6aaRmIIt2NHp7MAV-cWyD-1nrw9Q7GpVYIBkWKUDghe9b1yiDoj_u0VDJJGmXY3EEa-bkZI&pli=1&rapt=AEjHL4PSaINB7d5JaWsznGNrR5MaSM3IrT-4-RLQfrh50se8gImQzjQO_gwl9snOTnELKs_AXdaLppITkw5TdGOWqYb0yESx_zDmeJdm82g3w-upa1pCRss
 
