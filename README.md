@@ -2,19 +2,19 @@
 📌 Você deve criar dois arquivos:
 email.properties
 email1.properties
+
 📂 Salve os arquivos neste local:
 
 C:\projeto\arquivos\email.properties  
 C:\projeto\arquivos\email1.properties 
 
 
-🛠 Configuração do arquivo properties
+# 🛠 Configuração do arquivo properties
 
-# Credenciais do usuário
 mail.username=SEU_EMAIL_AQUI
 
 mail.password=SUA_SENHA_AQUI  # ⚠️ **Atenção:** Não é a senha tradicional usada para acessar o seu e-mail. Siga as informações abaixo.
-# Configuração do servidor IMAP
+
 mail.store.protocol=imaps
 
 mail.imap.host=imap.gmail.com
@@ -27,7 +27,7 @@ mail.imap.ssl.enable=true
 # ⚠️ ATENÇÃO: COMO GERAR SENHA PARA ACESSO AO SEU E-MAIL NO CÓDIGO
 🔐 Para que seu código consiga acessar o e-mail corretamente, é necessário gerar uma senha de acesso específica chamada senha de app.
 
-# 📌 IMPORTANTE!
+ 📌 IMPORTANTE!
 💡 Senhas de app não são recomendadas na maioria dos casos. Sempre que possível, prefira usar o recurso "Fazer login com o Google" para uma conexão mais segura.
 
 🔑 O que é uma senha de app?
