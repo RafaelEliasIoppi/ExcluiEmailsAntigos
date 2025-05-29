@@ -1,54 +1,53 @@
-# ExcluiEmailsAntigos
+🚀Instruções 🚀
+📌 Você deve criar dois arquivos:
+email.properties
+email1.properties
+📂 Salve os arquivos neste local:
 
-Você deve criar dois arquivos email.properties e email1.properties e salver neste local:
+C:\projeto\arquivos\email.properties  
+C:\projeto\arquivos\email1.properties 
 
-       C:\\projeto\\arquivos\\email.properties
-      
-       C:\\projeto\\arquivos\\email1.properties
-Isso para você configurar 2 emails diferentes.       
-       
-Com a seguinte configuração:
-      
+
+🛠 Configuração do arquivo properties
 
 # Credenciais do usuário
 mail.username=SEU_EMAIL_AQUI
-mail.password=SUA_SENHA_AQUI
 
+mail.password=SUA_SENHA_AQUI  # ⚠️ **Atenção:** Não é a senha tradicional usada para acessar o seu e-mail. Siga as informações abaixo.
 # Configuração do servidor IMAP
 mail.store.protocol=imaps
+
 mail.imap.host=imap.gmail.com
+
 mail.imap.port=993
+
 mail.imap.ssl.enable=true
 
 
-IMPORTANTE:
-Para que você consiga acessar seu email por este código você deve gerar uma senha de acesso:
-Procure por senhas de app.
+# ⚠️ ATENÇÃO: COMO GERAR SENHA PARA ACESSO AO SEU E-MAIL NO CÓDIGO
+🔐 Para que seu código consiga acessar o e-mail corretamente, é necessário gerar uma senha de acesso específica chamada senha de app.
 
-Fazer login com senhas de app
-Importante: senhas de app não são recomendadas nem necessárias na maioria dos casos. Use o recurso "Fazer login com o Google" para conectar apps à sua conta de forma segura.
-Uma senha de app tem 16 dígitos e autoriza o acesso à sua Conta do Google por um dispositivo ou um app menos seguro. As senhas de app podem ser usadas apenas em contas que tenham a verificação em duas etapas ativada.
+# 📌 IMPORTANTE!
+💡 Senhas de app não são recomendadas na maioria dos casos. Sempre que possível, prefira usar o recurso "Fazer login com o Google" para uma conexão mais segura.
 
-Quando usar senhas de app
-Dica: as senhas de app não são necessárias em iPhones e iPads com iOS 11 ou versões mais recentes. Em vez disso, use o recurso "Fazer login com o Google".
+🔑 O que é uma senha de app?
+✔ É uma senha de 16 dígitos que autoriza acesso temporário a apps ou dispositivos menos seguros. ✔ Pode ser usada somente em contas com verificação em duas etapas ativada.
 
-Se o app não oferecer essa opção, você poderá:
+🛠 Quando usar senhas de app?
+✅ Se o app não oferece a opção "Fazer login com o Google". ✅ Se você precisa conectar um dispositivo mais antigo ou um aplicativo que não suporta autenticação moderna.
 
-usar senhas de app;
-usar um app ou dispositivo mais seguro.
-Criar e usar senhas de app
-Importante: para criar uma senha de app, você precisa ter a verificação em duas etapas ativada na sua Conta do Google.
+🟢 Dica: iPhones e iPads com iOS 11 ou versões mais recentes não precisam de senhas de app. Basta usar "Fazer login com o Google".
 
-Se você usar a verificação em duas etapas e receber um erro de "senha incorreta" ao fazer login, tente usar uma senha de app.
+🔄 Como criar e usar senhas de app?
+1️⃣ Ative a verificação em duas etapas na sua Conta do Google. 2️⃣ Acesse a página de gerenciamento de senhas de app. 3️⃣ Gere uma senha e use-a apenas no aplicativo específico que necessita acesso.
 
-Crie e gerencie suas senhas de app. Talvez seja necessário fazer login na sua Conta do Google.
+🔎 E se eu receber um erro de senha incorreta?
+🔸 Se a verificação em duas etapas está ativada e você recebe um erro de senha, tente usar uma senha de app. 🔸 Caso não encontre a opção para adicionar uma senha de app, pode ser porque:
 
-Se você configurou a verificação em duas etapas, mas não encontra a opção para adicionar uma senha de app, pode ser porque:
+🔒 Sua conta está configurada apenas para chaves de segurança.
 
-sua Conta do Google tem a verificação em duas etapas configurada apenas para chaves de segurança;
-você fez login em uma conta do trabalho, da escola ou de outra organização;
-sua Conta do Google tem Proteção Avançada.
-Dica: normalmente, é necessário digitar a senha de app uma vez por app ou dispositivo.
+🏢 Você fez login em uma conta corporativa ou educacional.
 
+🔐 Sua conta faz parte do programa Proteção Avançada do Google.
 
-
+✨ Normalmente, é necessário digitar a senha de app apenas uma vez por aplicativo ou dispositivo!
