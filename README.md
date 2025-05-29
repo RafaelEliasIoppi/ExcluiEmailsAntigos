@@ -14,7 +14,7 @@ C:\projeto\arquivos\email1.properties
 
 mail.username=SEU_EMAIL_AQUI
 
-mail.password=SUA_SENHA_AQUI  # ⚠️ **Atenção:** Não é a senha tradicional usada para acessar o seu e-mail. Siga as informações abaixo.
+mail.password=SUA_SENHA_AQUI   ⚠️ **Atenção:** Não é a senha tradicional usada para acessar o seu e-mail. Siga as informações abaixo.
 
 mail.store.protocol=imaps
 
