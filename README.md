@@ -24,7 +24,7 @@ mail.imap.port=993
 mail.imap.ssl.enable=true
 
 
-# ⚠️ ATENÇÃO: COMO GERAR SENHA PARA ACESSO AO SEU E-MAIL NO CÓDIGO
+# Como Gerar a Senha para Acesso ao seu E-mail no Código
 🔐 Para que seu código consiga acessar o e-mail corretamente, é necessário gerar uma senha de acesso específica chamada senha de app.
 
  📌 IMPORTANTE!
