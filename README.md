@@ -35,6 +35,7 @@ mail.imap.ssl.enable=true
 ✔ Pode ser usada somente em contas com verificação em duas etapas ativada.
 
 🛠 Quando usar senhas de app?
+
 ✅ Se o app não oferece a opção "Fazer login com o Google".
 
 ✅ Se você precisa conectar um dispositivo mais antigo ou um aplicativo que não suporta autenticação moderna.
